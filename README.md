@@ -1,6 +1,6 @@
 ## Olá! tudo bem? Eu sou a Camila Minei 👋
 
-Sou graduada em Engenharia de Software  e aluna de pós graduação 🎓<br>
+Sou graduada e pós graduada em Engenharia de Software 🎓<br>
 Apaixonada por Design e Desenvolvimento Frontend 🩷<br>
 
 <div style="display: inline_block">
